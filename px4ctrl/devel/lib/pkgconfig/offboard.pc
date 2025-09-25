@@ -1,0 +1,8 @@
+prefix=/home/wing/catkin_ws/src/px4ctrl/devel
+
+Name: offboard
+Description: Description of offboard
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

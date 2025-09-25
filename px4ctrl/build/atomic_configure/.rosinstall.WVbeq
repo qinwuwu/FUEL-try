@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/wing/catkin_ws/src/px4ctrl/devel/setup.sh

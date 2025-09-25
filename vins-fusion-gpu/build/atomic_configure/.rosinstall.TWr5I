@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/wing/catkin_ws/src/vins-fusion-gpu/devel/setup.sh

@@ -1,0 +1,2 @@
+VINS-Fusion-gpu/camera_models:VINS-Fusion-gpu/global_fusion:VINS-Fusion-gpu/loop_fusion:VINS-Fusion-gpu/vins_estimator
+-DCATKIN_DEVEL_PREFIX=/home/wing/catkin_ws/src/vins-fusion-gpu/devel -DCMAKE_INSTALL_PREFIX=/home/wing/catkin_ws/src/vins-fusion-gpu/install -G Unix Makefiles
